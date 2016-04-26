@@ -12,3 +12,5 @@ bahut kharcha hey yaar idhaar... :)
 hi hey i did these changes from git hub website.
 
 let's see i can see them locally on machine
+
+now these changes are done from cloned repository of anupsg_repo
