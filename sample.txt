@@ -15,4 +15,10 @@ let's see i can see them locally on machine
 
 now these changes are done from cloned repository of anupsg_repo
 
+<<<<<<< HEAD
 these changes to resolve conflicts problem in git
+=======
+hi, doing this changes from coloned repository to check conflict problem of git
+>>>>>>> 560d41d74dab4ea10c6fd1caaad122acab4f8722
+
+resolve conflict issue
